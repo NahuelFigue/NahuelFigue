@@ -3,3 +3,4 @@
      I worked with .NET technologies(most like oriented to build a testing Framework), SQL server, Postman, SOAPUI, jmeter, bash scripting.
 - 🌱 I’m currently mastering microsoft suite.
 
+Its been a while, but here am I, currently colaborating hand to hand with a software architech to create a standarized development techniques, ...
